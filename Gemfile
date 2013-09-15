@@ -48,7 +48,7 @@ end
 group :test, :development do
   gem 'rspec-rails'
   gem 'capybara'
-  gem 'factory_girl'
+  gem 'factory_girl_rails'
   gem 'shoulda-matchers'
   gem 'valid_attribute'
   gem 'launchy'
